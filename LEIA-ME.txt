@@ -1,0 +1,3 @@
+RP Cartão V3 — Extraia todos os arquivos diretamente em C:\xampp\htdocs\RP-Cartao\ e substitua os antigos. Depois abra http://localhost/RP-Cartao/ e pressione Ctrl+F5. A imagem capa-rp.webp já contém o logotipo e textos; o cabeçalho HTML duplicado foi removido.
+
+V4: padronização de altura e alinhamento dos botões (70px), ícone de download e seta destacada no botão de instalação.
